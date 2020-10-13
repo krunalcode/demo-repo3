@@ -6,3 +6,4 @@ for testing
 
 adding this line in the visual studio 
 
+git 
